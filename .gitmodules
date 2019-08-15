@@ -1,0 +1,3 @@
+[submodule "DDNetPP-maps"]
+	path = DDNetPP-maps
+	url = https://github.com/DDNetPP/maps
