@@ -1,3 +1,6 @@
 [submodule "DDNetPP-maps"]
 	path = DDNetPP-maps
 	url = https://github.com/DDNetPP/maps
+[submodule "fly-maps"]
+	path = fly-maps
+	url = git@github.com:ZillyFly/fly-maps.git
