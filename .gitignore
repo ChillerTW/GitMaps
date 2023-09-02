@@ -1,6 +1,7 @@
 test/*
 tmp/*
 temp/
+auto/
 ln/*
 tags
 zx-maps/
